@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AjKJvWyr1qHWccgtMa8DV4ttr60NNbhWLNIUZ+olHDc=",
+  "Source": "OpenWeatherWrapper",
+  "BasePath": "_content/OpenWeatherWrapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

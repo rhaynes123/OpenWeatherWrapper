@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{22AD68D3-2AC5-4E4E-9479-D22996225023}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenWeatherWrapper/Features/Weather/Services/WeatherService.cs">
+    <Files>
+      <File FileName="OpenWeatherWrapper/Program.cs" Line="16" Column="31" />
+      <File FileName="OpenWeatherWrapper/Features/Weather/Queries/GetWeatherQuery.cs" Line="6" Column="31" />
+      <File FileName="OpenWeatherWrapper/Features/Weather/Models/WeatherResponse.cs" Line="8" Column="35" />
+      <File FileName="OpenWeatherWrapper/Features/Location/Queries/GetLocationQuery.cs" Line="1" Column="1" />
+      <File FileName="OpenWeatherWrapper/Features/Location/Services/LocationService.cs" Line="1" Column="1" />
+      <File FileName="OpenWeatherWrapper/Features/Weather/Services/WeatherService.cs" Line="8" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenWeatherWrapper" expanded="True">
+            <Node name="OpenWeatherWrapper" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Location" expanded="True">
+                  <Node name="Models" expanded="True" />
+                  <Node name="Queries" expanded="True" />
+                  <Node name="Services" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True">
+                  <Node name="Models" expanded="True" />
+                </Node>
+                <Node name="Weather" expanded="True">
+                  <Node name="Models" expanded="True" />
+                  <Node name="Queries" expanded="True" />
+                  <Node name="Services" expanded="True">
+                    <Node name="WeatherService.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OpenWeatherWrapper PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
